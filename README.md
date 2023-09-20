@@ -1,5 +1,4 @@
-# rse-onboarding
-RSE Onboarding Docs
+# Research Assistant Onboarding
 
 ## Admin/Timekeeping
 - Flexible schedule​
