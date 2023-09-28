@@ -12,7 +12,8 @@
   - For absences, general questions, and non-GH communication.
   - Use `ssec_ra` and given project channels.
 - Google Calendar​
-  - Only for vacation and reserving meeting rooms in the Studio​.
+  - Only for vacation and reserving meeting rooms in the Studio​. If you would like to schedule a meeting room in the Studio, please ask your mentor.
+   - Any vacation/large absences can be sent to Anshul. 
 - Either Outlook or Gmail is fine as an email client.
   - Please send and accept email invites for calendar events.
 
