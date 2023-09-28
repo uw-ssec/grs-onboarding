@@ -4,7 +4,7 @@
 - Flexible schedule​
   - Hot desks in WRF Data Science Studio Available​
 - Accommodations​
-  - Reach out to Anshul and notify Project Engineer​
+  - Reach out to Anshul and notify mentor.
 - Expectation of 20 hours a week.
 
 ## Communication
