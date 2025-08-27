@@ -4,7 +4,7 @@
 
 [RSE-Guidelines](https://rse-guidelines.readthedocs.io/en/latest/) is our guide to Research Software Engineering best practices. As you ramp up to begin working on projects, please take the time to read through and familiarize yourself with the contents. Your first task at SSEC will be as follows:
 - As part of reading RSE-Guidelines, please familiarize yourself with the forking workflow found here.
-- Once you have done so, please follow that workflow in the https://github.com/uw-ssec/rse-guidelines/issues and select an issue, assign it to yourself, and after completing it, submit a PR as described in the forking workflow above. As each of you select and submit PRs against the issues, please review and comment on each other's PRs.
+- Once you have done so, please follow that workflow in the [Issues tab](https://github.com/uw-ssec/rse-guidelines/issues) and select an issue, assign it to yourself, and after completing it, submit a PR as described in the forking workflow above. As each of you select and submit PRs against the issues, please review and comment on each other's PRs.
 Please consider this an opportunity to learn about the technologies and best practices as well as do your own research and learning in taking on the open issues in the repo. A chance to contribute to current and future learnings!
 
 ## Admin/Timekeeping
